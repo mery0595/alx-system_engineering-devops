@@ -1,0 +1,16 @@
+total 52
+drwxr-xr-x 2 mingw mingw 4096 Jun 12 21:02 .
+drwxr-xr-x 6 mingw mingw 4096 Jun 12 19:21 ..
+-rwxr--r-- 1 mingw mingw   32 Jun 12 20:07 0-hello_world
+-rwxr--r-- 1 mingw mingw   28 Jun 12 19:53 1-confused_smiley
+-rwxr--r-- 1 mingw mingw   28 Jun 12 19:59 2-hellofile
+-rwxr--r-- 1 mingw mingw   39 Jun 12 20:12 3-twofiles
+-rwxr--r-- 1 mingw mingw   29 Jun 12 20:19 4-lastlines
+-rwxr--r-- 1 mingw mingw   29 Jun 12 20:21 5-firstlines
+-rwxr--r-- 1 mingw mingw   40 Jun 12 20:26 6-third_line
+-rwxr--r-- 1 mingw mingw   98 Jun 12 20:56 7-file
+-rwxr--r-- 1 mingw mingw   36 Jun 12 21:01 8-cwd_state
+-rw-r--r-- 1 mingw mingw   19 Jun 12 19:22 README.md
+-rw-r--r-- 1 mingw mingw   12 Jun 12 20:42 \*\\Best School\\\*$\\?\\*\\*\\*\\*\\*\\:)
+-rw-r--r-- 1 mingw mingw    0 Jun 12 20:26 iacta
+-rw-r--r-- 1 mingw mingw    0 Jun 12 21:02 ls_cwd_content
