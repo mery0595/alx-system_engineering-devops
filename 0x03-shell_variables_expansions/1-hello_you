@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $MINGW"
+echo "hello $USER"
